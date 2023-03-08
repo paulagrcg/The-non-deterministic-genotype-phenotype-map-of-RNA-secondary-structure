@@ -8,7 +8,7 @@ The data included (not yet in github) is in pickle format and are dictionaries:
 
 - dictgpmapMFE : complete MFE GP map of RNA12 (Heavy file so not included, can produce with code as explained in notebook)
 
-- dictRNA12tot: complete ND GP map of RNA12 for energy gap 15kbT. (Heavy file so not included, can produce with code as explained in notebook)
+- dictRNA12tot: complete ND GP map of RNA12 for energy gap 15kbT. (Heavy file, can produce with code as explained in notebook)
 
 
 - MFEquantities: D quantities on the MFE GP map.
@@ -33,9 +33,9 @@ The data included (not yet in github) is in pickle format and are dictionaries:
 		evgND: genotypic evolvability
 		evpND: phenotypic evolvability
 		NDsetsize: phenotype ND set size
-	   folddict: {phenotype: [genotype,probability]} (Heavy file so not included, can produce with code as explained in notebook)
+	   folddict: {phenotype: [genotype,probability]} (Heavy file, can produce with code as explained in notebook)
 
-- dictpmfe: {genotype: mfe probability} as explained in code and preprint for plastogenetic congruence (Supplementary Information) (Heavy file so not included, can produce with code as explained in notebook)
+- dictpmfe: {genotype: mfe probability} as explained in code and preprint for plastogenetic congruence (Supplementary Information) (Heavy file, can produce with code as explained in notebook)
 
 
 
