@@ -6,9 +6,10 @@ Further details on the methods used can be found in the jupyter notebook code.
 
 The data included is in pickle format and are dictionaries:
 
-- dictgpmapMFE : complete MFE GP map of RNA12
+- dictgpmapMFE : complete MFE GP map of RNA12 (Heavy file so not included, can produce with code as explained in notebook)
 
-- dictRNA12tot: complete ND GP map of RNA12 for energy gap 15kbT. (Heavy file)
+- dictRNA12tot: complete ND GP map of RNA12 for energy gap 15kbT. (Heavy file so not included, can produce with code as explained in notebook)
+
 
 - MFEquantities: D quantities on the MFE GP map.
 		rhogMFE: genotypic robustness
@@ -32,8 +33,9 @@ The data included is in pickle format and are dictionaries:
 		evgND: genotypic evolvability
 		evpND: phenotypic evolvability
 		NDsetsize: phenotype ND set size
-	   folddict: {phenotype: [genotype,probability]} (as explained in code)
+	   folddict: {phenotype: [genotype,probability]} (Heavy file so not included, can produce with code as explained in notebook)
 
-- dictpmfe: {genotype: mfe probability} as explained in code and preprint for plastogenetic congruence (Supplementary Information)
+- dictpmfe: {genotype: mfe probability} as explained in code and preprint for plastogenetic congruence (Supplementary Information) (Heavy file so not included, can produce with code as explained in notebook)
+
 
 
