@@ -4,7 +4,7 @@ This code uses ViennaRNA (2.5.1) and Python 3.9.7, and various standard Python p
 
 Further details on the methods used can be found in the jupyter notebook code.
 
-The data included is in pickle format and are dictionaries:
+The data included (not yet in github) is in pickle format and are dictionaries:
 
 - dictgpmapMFE : complete MFE GP map of RNA12 (Heavy file so not included, can produce with code as explained in notebook)
 
