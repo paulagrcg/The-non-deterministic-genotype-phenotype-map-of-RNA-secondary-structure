@@ -5,7 +5,7 @@ This code uses ViennaRNA (2.5.1) and Python 3.9.7, and various standard Python p
 Further details on the methods used can be found in the jupyter notebook code "CodeRNA12.ipynb".
 Visualisation code is in jupyter notebook "plots.ipynb", quantities in Fig.2 are calculated by hand.
 
-The data used (shared through dropbox link, not yet in github) is in pickle format and are dictionaries:
+The data used (available on request, heavy file not yet in github) is in pickle format and are dictionaries:
 
 - dictgpmapMFE : complete MFE GP map of RNA12 (Heavy file, can produce with code as explained in notebook)
 
