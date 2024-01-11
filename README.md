@@ -1,2 +1,2 @@
 # The-non-deterministic-genotype-phenotype-map-of-RNA-secondary-structure
-Code and data for the preprint https://doi.org/10.1101/2023.02.27.530309 
+Code and data for paper in the Journal of the Royal Society Interface https://royalsocietypublishing.org/doi/10.1098/rsif.2023.0132
